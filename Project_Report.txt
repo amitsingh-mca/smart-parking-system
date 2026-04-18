@@ -1,0 +1,6 @@
+Project Title: Smart Parking Management Simulation
+Student: Amit Singh
+College: SAM Global University
+
+Abstract:
+This project simulates an IoT based parking management system using Python Flask.
